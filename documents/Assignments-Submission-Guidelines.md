@@ -10,7 +10,7 @@ Create a **private** repository in GitHub.
 
 Ensure the repository is **private** else your assignments won't be accepted.
 
-Name the repository appropriately. For example, _zs-java-assignments-<your-name>_. 
+Name the repository appropriately. For example, _zs-testing-assignments-<your-name>_. 
 Replace _<your-name>_ with your name in lower-case.
 
 The aim of this repository will be to contain all your assignments.
