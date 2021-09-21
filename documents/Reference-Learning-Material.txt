@@ -1,0 +1,22 @@
+1. HTML
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+2. CSS Selectors
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+
+3. Selenium - Webdriver official documentation
+
+https://www.selenium.dev/documentation/webdriver/
+
+4. TestNG
+
+https://testng.org/doc/documentation-main.html
+
+5. Git Basics Youtube Video
+
+https://youtu.be/SWYqp7iY_Tc
+
+
+
